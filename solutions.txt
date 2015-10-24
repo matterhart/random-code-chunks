@@ -1,0 +1,15 @@
+Maze Id: 6032346040131989086.7
+Solution String: wpshywuxpylggmgwsrfbtmilvl
+https://challenge.flipboard.com/check?s=6032346040131989086.7&guess=wpshywuxpylggmgwsrfbtmilvl
+
+Maze Id: 146721622948950201.13
+Solution String: usaztl
+https://challenge.flipboard.com/check?s=146721622948950201.13&guess=usaztl
+
+Maze Id: 3392871248911798377.7
+Solution String: fippwdbqttnjlwhcxkarakarxexrakarxexexrakxwnecflypoaq
+https://challenge.flipboard.com/check?s=3392871248911798377.7&guess=fippwdbqttnjlwhcxkarakarxexrakarxexexrakxwnecflypoaq
+
+Maze Id: 2699568211668854925.24
+Solution String: cakxtkyrftzlbakcuidqclngmhhxnlxuuhhbwbpenwgwnepbwbhhuuxlnxhhmkgsnnnn
+https://challenge.flipboard.com/check?s=2699568211668854925.24&guess=cakxtkyrftzlbakcuidqclngmhhxnlxuuhhbwbpenwgwnepbwbhhuuxlnxhhmkgsnnnn
