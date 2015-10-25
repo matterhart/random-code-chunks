@@ -7,4 +7,4 @@ Solution.txt is a non-exhastive list of possible solutions to different mazes.
 Python Version: 2.7.10
 
 Run via:
-	python challenge.py
+>	python challenge.py
